@@ -1,0 +1,1108 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 3500px) {
+  .jpl-job-posted-active-filters-bars > .jpl-resi {
+    display: none;
+  }
+  ul#pills-tab {
+    margin-right: 50px;
+  }
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /* Start Job Type-Groud Area  */
+
+    .jpl-job-type-group-single-content{
+      width: 100%;
+      margin-right: 100px;
+    }
+   /* End Job Type-Groud Area  */
+
+  /* Start Header Area */
+  .jpl-frist-menu-items ul li {
+    margin: 0 8px;
+  }
+  
+  ul#pills-tab {
+    margin-right: 50px;
+  }
+  .jpl-has-submenu .jpl-submenu-wrapper {
+    left: -50px;
+  }
+  .jpl-full-search-box-forbg_open {
+    left: 0%;
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .jpl-full-category-box2-form_open {
+    opacity: 1;
+    left: -30%;
+    top: 25px;
+    visibility: visible;
+  }
+
+  .jpl-industry-form_open {
+    opacity: 1;
+    left: -50%;
+    top: 25px;
+    visibility: visible;
+  }
+
+  .jpl-location-form_open {
+    opacity: 1;
+    left: -30%;
+    top: 25px;
+    visibility: visible;
+  }
+  .jpl-time-form_open {
+    opacity: 1;
+    left: -50%;
+    top: 25px;
+    visibility: visible;
+  }
+
+  .jpl-newspaper-form_open {
+    opacity: 1;
+    left: -50%;
+    top: 25px;
+    visibility: visible;
+  }
+  .jpl-filter-form_open {
+    opacity: 1;
+    left: -500px;
+    top: 25px;
+    visibility: visible;
+  }
+/* ok */
+  .jpl-active-icons{
+    /* width: 980px; */
+    width: 100%;
+    /* left: 50px; */
+  }
+
+  .jpl-active-icons.sidebar-sticky {
+    position: fixed;
+    width: 100%;
+    right: 5px;
+    top: 1px;
+}
+/* ok */
+
+  /* End Header Area */
+
+  /* Start Hero area */
+  button.ct-submit-btn > i {
+    display: none;
+  }
+
+  .jpl-hero-job-loc-frist-site-item {
+    float: none;
+  }
+
+  .jpl-hero-job-loc-second-site-item {
+    float: none;
+  }
+
+  .jpl-hero-second-job-type {
+    display: none;
+  }
+
+  .jpl-hero-frist-job-type {
+    margin-left: 0px;
+  }
+
+  .jpl-hero-job-category h4 {
+    font-size: 15px;
+  }
+
+  /* End Hero area */
+
+  /* Start Job Category Area */
+  .jpl-job-category-icon {
+    margin-left: 3px;
+  }
+
+  .jpl-main-job-category {
+    padding: 0 10px 30px 10px;
+  }
+
+  .jpl-job-category-btn-second {
+    margin-right: 16px;
+  }
+
+  /* End Job Category Area */
+
+  /* Start Job Type Area */
+  .jpl-jop-type-google-adds {
+    margin-top: 30px;
+  }
+
+  .jpl-job-type-google-adds-img {
+    width: 100%;
+    height: 300px;
+  }
+
+  .jpl-single-job-type {
+    margin-top: 30px;
+  }
+
+  .jpl-single-job-type:fast-child {
+    margin-top: 0;
+  }
+
+  .jpl-main-job-type {
+    padding: 0 25px 25px 25px;
+  }
+
+  .jpl-job-type-btn {
+    margin: 15px 0 30px 0;
+  }
+
+  /* End Job Type Area */
+
+  /* Start Course Area */
+  .jpl-course-single-contents {
+    margin-bottom: 0px;
+  }
+
+  .jpl-course-single-content {
+    margin-bottom: 0px;
+  }
+
+  .jpl-course-info > p {
+    font-size: 13px;
+  }
+
+  .jpl-course-main-img {
+    width: 80px;
+  }
+
+  .jpl-course-date > a,
+  .jpl-course-time > a {
+    font-size: 12px;
+  }
+
+  .jpl-course-time-date {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: start;
+    gap: 30px;
+  }
+
+  .jpl-course-area .jpl-more {
+    margin-top: 17px;
+  }
+
+  /* End Course Area */
+
+  /* Start Posted Job Content (Posted Job Page) */
+  .jpl-posted-job-ad > img {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .jpl-posted-job-name-hins {
+    margin-left: 10px;
+  }
+
+  .jpl-posted-job-number {
+    margin-right: 10px;
+  }
+
+  /* Start Posted Job Content (Posted Job Page) */
+
+  /* Start Footer Area */
+  .jpl-footer-content {
+    text-align: center;
+  }
+
+  /* End Footer Area */
+
+  /* Start Responsive Active Filter */
+  .jpl-responsive-filters {
+    display: none;
+  }
+
+  /* ok */
+  .jpl-active-icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+  }
+
+  .jpl-active-icons .title {
+    display: none;
+  }
+/* ok */
+
+  span.jpl-text-responsive {
+    display: none;
+  }
+
+  .jpl-job-posted-main-content-icons {
+    padding: 16px 20px;
+  }
+  .jpl-job-posted-active-filters-bars {
+    position: relative;
+  }
+  .jpl-job-posted-main-content-icons:first-child {
+    padding: 20px;
+  }
+  /* End Responsive Active Filter */
+}
+
+
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+   /* Start Job Type-Groud Area  */
+
+  .jpl-job-type-group-single-content{
+    width: 100%;
+  }
+ /* End Job Type-Groud Area  */
+
+  .jpl-input-fild-hero {
+    height: auto;
+  }
+  /* Start Header Area */
+  .jpl-mediam-responsive-frist-menu {
+    display: none;
+  }
+  ul#pills-tab {
+    margin-right: 50px;
+  }
+  .jpl-frist-menu-items ul li {
+    margin: 0 8px;
+  }
+
+  .jpl-home-main-navigation ul li {
+    margin: 0 0px;
+  }
+
+  .jpl-has-submenu .jpl-submenu-wrapper {
+    left: -30px;
+  }
+  .jpl-home-main-navigation ul li a {
+    padding: 0 9px;
+  }
+  .jpl-home-main-navigation {
+    text-align: left;
+  }
+  /* End Header Area */
+  /* Start Mobile Menu */
+  .jpl-home-main-navigation ul li a {
+    font-size: 15px;
+  }
+
+  .jpl-full-search-box-forbg_open {
+    left: 0%;
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .jpl-full-category-box2-form_open {
+    opacity: 1;
+    left: -100px;
+    top: 10px;
+    visibility: visible;
+  }
+
+  .jpl-industry-form_open {
+    opacity: 1;
+    left: -50%;
+    top: 10px;
+    visibility: visible;
+  }
+
+  .jpl-location-form_open {
+    opacity: 1;
+    left: -275px;
+    top: 10px;
+    visibility: visible;
+  }
+
+  .jpl-time-form_open {
+    opacity: 1;
+    left: -200px;
+    top: 10px;
+    visibility: visible;
+  }
+
+  .jpl-newspaper-form_open {
+    opacity: 1;
+    left: -200px;
+    top: 10px;
+    visibility: visible;
+  }
+
+  .jpl-filter-form_open {
+    opacity: 1;
+    left: -512px;
+    top: 11px;
+    visibility: visible;
+  }
+
+  /* ok */
+
+  .jpl-active-icons.sidebar-sticky {
+    position: fixed;
+    width: 71.5%;
+    /* width: 500px; */
+    top: 1px;
+    
+}
+
+  /* ok */
+
+  /* End Mobile Menu */
+
+  /* Start Hero Area */
+
+  /* .jpl-hero-job-category {
+		display: block;
+	} */
+  .jpl-hero-area {
+    position: relative;
+    /* height: 00px; */
+    height: 900px;
+  }
+  
+  
+  .jpl-hero-job-loc-frist-site-item {
+    float: none;
+    overflow: none;
+  }
+  .jpl-hero-job-loc-second-site-item {
+    float: none;
+  }
+  .jpl-hero-job-category {
+    height: 401px;
+    overflow-y: scroll;
+  }
+  .jpl-last-items-hero-jobs-category {
+    text-align: left;
+  }
+  button.ct-submit-btn > i {
+    display: none;
+  }
+
+  .jpl-hero-job-category-from {
+    display: block;
+  }
+
+  .ct-search-form {
+    display: block;
+  }
+
+  .e-search-form {
+    display: block;
+  }
+
+  .input-field {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+  }
+
+
+
+  .ct-select-wrapper .ct-dropdown-wrapper {
+    left: 10px;
+    top: 14px;
+  }
+
+  input#ct-select-input {
+    width: 100%;
+  }
+
+  button.ct-submit-btn {
+    width: 100%;
+  }
+
+
+  .input-field > input {
+    width: 100%;
+  }
+
+
+
+  ul.dropdown-menu.jpl-hero-category-deropdown-menu.show {
+    width: 100%;
+    text-align: left;
+  }
+
+  .jpl-input-fild-hero {
+    height: 273px;
+  }
+
+  .jpl-main-hero-counter {
+    display: none;
+  }
+
+  .ct-dropdown-btn {
+    display: block;
+    width: 100%;
+  }
+
+  /* End Hero Area */
+
+   /* ok */
+  /* Start Job Category Area */
+  .jpl-active-icons {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #02416a;
+  }
+  .jpl-active-icons .icon_title {
+    display: none;
+  }
+  /* ok */
+
+  .jpl-single-job-category:last-child(3) {
+    margin: 0 auto 20px auto;
+  }
+
+  .jpl-single-job-category-responsive {
+    display: none;
+  }
+
+
+  .jpl-job-category-btn-frist {
+    text-align: left;
+    margin-left: 50px;
+  }
+
+  .jpl-job-category-btn-second {
+    text-align: left;
+    margin-left: 40px;
+  }
+
+
+  .jpl-job-category-adds-img {
+    margin-top: 35px;
+  }
+
+  img.jpl-google-add-1 {
+    height: 250px;
+  }
+
+  /* End Job Category Area */
+
+  /* Start Job Type Area */
+  .jpl-jop-type-google-adds {
+    margin-top: 30px;
+  }
+
+  .jpl-job-type-google-adds-img {
+    width: 100%;
+    height: 250px;
+  }
+
+  .jpl-single-job-type {
+    margin-top: 30px;
+  }
+
+  .jpl-single-job-type:fast-child {
+    margin-top: 0;
+  }
+
+  .jpl-main-job-type {
+    padding: 0 25px 25px 25px;
+  }
+
+  .jpl-job-type-btn {
+    margin: 15px 0 30px 0;
+  }
+
+  /* End Job Type Area */
+
+  /* Start Job Timing Area */
+  .jpl-job-timing-area-title {
+    text-align: center;
+  }
+
+  .jpl-job-timing-area-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .jpl-job-timing-btn {
+    text-align: center;
+  }
+
+  .jpl-job-single-items > p {
+    font-size: 14px;
+  }
+
+  /* End Job Timing Area */
+  /* Start Course Area */
+  .jpl-course-time-date {
+    display: block;
+    text-align: left;
+  }
+
+  .jpl-course-img {
+    margin-top: 4px;
+  }
+
+  .jpl-course-section-google-adds-img {
+    margin-top: 25px;
+  }
+
+  .tc-section-google-adds {
+    width: 100%;
+  }
+
+  /* End Course Area */
+
+  /* Start Testimonial Area */
+  .jpl-single-testimonial-content:first-child {
+    margin-bottom: 15px;
+  }
+
+  .jpl-single-testimonial-content:last-child {
+    margin-top: 15px;
+  }
+
+  /* End Testimonial Area */
+  /* Start Google Ads Before Footer */
+  .jpl-footer-google-adds-img {
+    display: block;
+  }
+
+  .jpl-footer-before-frist-part > img {
+    width: 100%;
+  }
+
+  .jpl-footer-before-second-part > img {
+    width: 100%;
+  }
+
+  /* End Google Ads Before Footer */
+
+  /* Start Posted Job Content (Posted Job Page) */
+  .jpl-posted-job-ad > img {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .jpl-posted-job-name-hins {
+    margin-left: 10px;
+  }
+
+  .jpl-posted-job-number {
+    margin-right: 10px;
+  }
+
+  /* Start Posted Job Content (Posted Job Page) */
+
+  /* Start Footer Area */
+  .jpl-footer-content {
+    text-align: center;
+    margin-bottom: 35px;
+  }
+
+  /* End Footer Area */
+}
+
+
+
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+  /* Start Mobile Menu */
+
+  .jpl-remove-responsive-menu {
+    display: none;
+  }
+
+  .jpl-mobile-menu-responsive-xt-bar {
+    display: inline-block;
+    margin-top: -40px;
+  }
+
+  .jpl-second-menu {
+    padding: 15px 0;
+  }
+
+  .jpl-mobile-menu-bar {
+    text-align: right;
+  }
+
+  /* End Mobile Menu */
+
+  /* Start Hero Area */
+  /* .jpl-hero-job-category {
+		display: none;
+	} */
+
+  /* ok */
+  .jpl-active-icons {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #02416a;
+  }
+    /* ok */
+
+  .jpl-full-search-box-forbg_open {
+    left: 0%;
+    top: 100%;
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .jpl-full-category-box2-form_open {
+    opacity: 1;
+    left: -80px;
+    top: 10px;
+    visibility: visible;
+    width: 350px;
+  }
+
+  .menu_mobile_list{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .jpl-industry-form_open {
+    opacity: 1;
+    left: -70px;
+    top: 10px;
+    visibility: visible;
+  }
+  .jpl-location-form_open {
+    opacity: 1;
+    left: -175px;
+    top: 10px;
+    visibility: visible;
+    width: 350px;
+  }
+
+  .jpl-time-form_open {
+    opacity: 1;
+    left: -200px;
+    top: 10px;
+    visibility: visible;
+  }
+
+  .jpl-newspaper-form_open {
+    opacity: 1;
+    left: -230px;
+    top: 10px;
+    visibility: visible;
+  }
+
+  .jpl-filter-form_open {
+    opacity: 1;
+    left: -300px;
+    top: 10px;
+    visibility: visible;
+    width: 350px;
+  }
+/* ok */
+  .jpl-active-icons.sidebar-sticky {
+    position: fixed;
+    width: 100%;
+    top: 1px;
+    /* right: 1px; */
+    
+}
+
+  .jpl-active-icons .icon_title {
+    display: none;
+  }
+
+  /* ok */
+
+  .jpl-hero-area {
+    position: relative;
+    /* height: 00px; */
+    height: 900px;
+  }
+  
+  .jpl-hero-job-loc-frist-site-item {
+    float: none;
+    overflow: none;
+  }
+  .jpl-hero-job-loc-second-site-item {
+    float: none;
+  }
+  .jpl-hero-job-category {
+    height: 401px;
+    overflow-y: scroll;
+  }
+  .jpl-last-items-hero-jobs-category {
+    text-align: left;
+  }
+
+  button.ct-submit-btn > i {
+    display: none;
+  }
+
+  .jpl-hero-job-category-from {
+    display: block;
+  }
+
+  .ct-search-form {
+    display: block;
+  }
+
+  .e-search-form {
+    display: block;
+  }
+
+  .input-field {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+  }
+
+
+  .ct-select-wrapper .ct-dropdown-wrapper {
+    left: 10px;
+    top: 14px;
+  }
+
+  input#ct-select-input {
+    width: 100%;
+  }
+
+  button.ct-submit-btn {
+    width: 100%;
+  }
+
+
+  .input-field > input {
+    width: 100%;
+  }
+
+
+
+  ul.dropdown-menu.jpl-hero-category-deropdown-menu.show {
+    width: 100%;
+    text-align: left;
+  }
+
+  .jpl-input-fild-hero {
+    height: 273px;
+  }
+
+  .jpl-main-hero-counter {
+    display: none;
+  }
+
+  .ct-dropdown-btn {
+    display: block;
+    width: 100%;
+  }
+
+  /* End Hero Area */
+
+  /* Start Job Category Area */
+  .jpl-job-category-btn-frist,
+  .jpl-job-category-btn-second {
+    text-align: center;
+    margin: 0;
+  }
+
+  .jpl-job-category-adds-img {
+    margin-top: 35px;
+  }
+
+  img.jpl-google-add-1 {
+    height: 250px;
+  }
+
+  /* End Job Category Area */
+
+  /* Start Job Type Area */
+  .jpl-jop-type-google-adds {
+    margin-top: 30px;
+  }
+
+  .jpl-job-type-google-adds-img {
+    width: 100%;
+    height: 250px;
+  }
+
+  .jpl-single-job-type {
+    margin-top: 30px;
+  }
+
+  .jpl-single-job-type ul li {
+    text-align: center;
+  }
+
+  .jpl-single-job-type ul li a {
+    font-size: 14px;
+  }
+
+  .jpl-single-job-type:fast-child {
+    margin-top: 0;
+  }
+
+  .jpl-main-job-type {
+    padding: 0 25px 25px 25px;
+  }
+
+  .jpl-job-type-btn {
+    margin: 15px 0 30px 0;
+  }
+
+  /* End Job Type Area */
+
+  /* Start Job Timing Area */
+  .jpl-job-timing-area-title {
+    text-align: center;
+  }
+
+  .jpl-job-timing-area-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .jpl-job-timing-btn {
+    text-align: center;
+  }
+
+  .jpl-main-single-course-content {
+    margin-top: 25px;
+  }
+
+  /* End Job Timing Area */
+
+  /* Start Applay Job Area */
+  .jpl-applay-job-main-title {
+    text-align: center;
+  }
+
+  .jpl-applay-job-btn {
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  /* End Applay Job Area */
+
+  /* Start Job Tender Area */
+  .jpl-job-tender-main-img {
+    padding: 7px;
+    width: 42px;
+  }
+
+  /* End Job Tender Area */
+
+  /* Start Course Area */
+  .jpl-course-section-google-adds-img {
+    margin-top: 25px;
+  }
+
+  .tc-section-google-adds {
+    width: 100%;
+  }
+
+  /* End Course Area */
+
+  /* Start Testimonial Area */
+  .jpl-single-testimonial-content:first-child {
+    margin-bottom: 15px;
+  }
+
+  .jpl-single-testimonial-content:last-child {
+    margin-top: 15px;
+  }
+
+  /* End Testimonial Area */
+
+  /* Start Google Ads Before Footer */
+  .jpl-footer-google-adds-img {
+    display: block;
+  }
+
+  .jpl-footer-before-frist-part > img {
+    width: 100%;
+  }
+
+  .jpl-footer-before-second-part > img {
+    width: 100%;
+  }
+
+  /* End Google Ads Before Footer */
+
+  /* Start Total Posted Job And Pagenation (Posted Job Page) */
+  .jpl-top-total-job-posted-pagination {
+    text-align: left;
+    margin: 0;
+    margin-bottom: 15px;
+  }
+
+  .jpl-job-vacancies {
+    margin: 7px 0;
+  }
+
+  /* End Total Posted Job And Pagenation (Posted Job Page)*/
+
+  /* Start Posted Job Active Filter Title (Posted Job Page) */
+  .jpl-job-posted-active-title {
+    padding: 0px 0px 7px 0;
+  }
+
+  .jpl-job-posted-active-filters-bars {
+    height: 0px;
+    padding: 0;
+  }
+
+  .jpl-jop-post-active-filters::after {
+    display: none;
+  }
+
+  /* End Posted Job Active Filter Title (Posted Job Page) */
+
+  /* Start Posted Job Content (Posted Job Page) */
+  .jpl-posted-job-ad > img {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .jpl-posted-company-name > span:last-child {
+    float: none;
+    display: block;
+    margin-top: 10px;
+  }
+
+  .jpl-posted-job-number {
+    text-align: left;
+  }
+
+  .jpl-all-posted-job-selection {
+    margin-left: 15px;
+  }
+
+  .jpl-posted-job-bottom-selection .jpl-posted-job-number {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .next-prev-btn {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .jpl-posted-job-bottom-pagination > .jpl-top-total-job-posted-pagination {
+    text-align: center;
+  }
+  /* Start Posted Job Content (Posted Job Page) */
+
+  /* Start Footer Area */
+  .jpl-footer-content {
+    margin-bottom: 35px;
+  }
+
+  /* End Footer Area */
+}
+
+
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+  /* Start Mobile Menu */
+
+
+       /* Start Job Type-Groud Area  */
+
+       .jpl-job-type-group-single-content{
+        width: 100%;
+       margin-right: 100px;
+       font-size: 13px;
+       padding: 20px;
+     }
+ 
+    /* End Job Type-Groud Area  */
+
+
+}
+
+
+
+
+
+
+
+
+
+/* Mini Mobile */
+@media (max-width: 450px) {
+
+  /* Start Job Type Area */
+  .jpl-single-job-type ul li {
+    text-align: left;
+  }
+
+
+     /* Start Job Type-Groud Area  */
+
+     .jpl-job-type-group-single-content{
+       width: 100%;
+      margin-right: 100px;
+      font-size: 13px;
+      padding: 20px;
+    }
+
+   /* End Job Type-Groud Area  */
+
+
+
+  /* Start Job Type Group Area */
+
+  .jpl-job-type-group-list > ul li a {
+    font-size: 13px;
+    margin-left: 0;
+  }
+
+  .jpl-job-type-group-list > ul li a > i {
+    display: none;
+  }
+
+  .jpl-job-type-group-list > ul li {
+    text-align: center;
+  }
+
+  /* End Job Type Group Area */
+  /* Start Course Area */
+  .jpl-course-time-date {
+    display: block;
+    text-align: left;
+  }
+
+  .jpl-course-img {
+    margin-top: 4px;
+  }
+
+  .jpl-course-area .jpl-more {
+    margin-top: -32px;
+  }
+
+  /* End Course Area */
+  /* Start Brand Area */
+  .jpl-brand-logo-items {
+    width: 100px;
+  }
+
+  /* End Brand Area */
+}
